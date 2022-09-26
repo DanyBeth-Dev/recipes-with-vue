@@ -1,4 +1,4 @@
-# recipe-vue
+# Welcome to Recipes With Vue!
 
 ## Project setup
 ```
